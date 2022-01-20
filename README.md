@@ -28,9 +28,9 @@
     <br />
     <br />
     ·
-    <a href="https://github.com/Vedantgupta2303/EdMission/issues/new">Report Bug</a>
+    <a href="https://github.com/GauravAnand563/EdMission/issues/new">Report Bug</a>
     ·
-    <a href="https://github.com/Vedantgupta2303/EdMission/issues/new">Request Feature</a>
+    <a href="https://github.com/GauravAnand563/EdMission/issues/new">Request Feature</a>
     ·
     <a href="https://docs.google.com/document/d/1AvjmpZW3YEtSYxRsifFd0P2zuNfmUMBU4deRhDOUBUI/edit?usp=sharing">Project Report</a>
     ·
@@ -75,7 +75,7 @@ To get a local copy up and running follow these simple example steps.
 * A few other dependencies that are listed below will be required.
 
 ### Dependencies
-Listed below are some major dependencies list, for the complete list visit [pubspec.yaml](https://github.com/Vedantgupta2303/EdMission/blob/master/pubspec.yaml)
+Listed below are some major dependencies list, for the complete list visit [pubspec.yaml](https://github.com/GauravAnand563/EdMission/blob/master/pubspec.yaml)
 |Dependency| Version|
 |----------|------------|
 | Agora|agora_rtc_engine: ^4.0.0-rc.3 |
@@ -89,13 +89,13 @@ The drive link to the latest APK can be found [here](https://drive.google.com/fi
 <!-- USAGE EXAMPLES -->
 ## Screenshots
 
-<img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/login-ss.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/ss1.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/ss2.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/ss3.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/ss4.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/ss5.jpeg"  width="100" height="200">  <img src="https://github.com/Vedantgupta2303/EdMission/blob/master/setup/vc-ss.jpeg"  width="100" height="200">
+<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/login-ss.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss1.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss2.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss3.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss4.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss5.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/vc-ss.jpeg"  width="100" height="200">
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Vedantgupta2303/EdMission) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/GauravAnand563/EdMission) for a list of proposed features (and known issues).
 
 ## VIDEOS
 Video link - https://drive.google.com/drive/folders/137D3G1EARbrB94Wq3GHeIZF4SMmPG8Gz?usp=sharing
@@ -128,21 +128,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Our Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/Vedantgupta2303/EdMission/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Vedantgupta2303/EdMission" />
+<a href="https://github.com/GauravAnand563/EdMission/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=GauravAnand563/EdMission" />
 </a>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Vedantgupta2303/EdMission.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vedantgupta2303/EdMission/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vedantgupta2303/EdMission.svg?style=for-the-badge
-[forks-url]: https://github.com/Vedantgupta2303/EdMission/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vedantgupta2303/EdMission.svg?style=for-the-badge
-[stars-url]: https://github.com/Vedantgupta2303/EdMission/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vedantgupta2303/EdMission.svg?style=for-the-badge
-[issues-url]: https://github.com/Vedantgupta2303/EdMission/issues
-[license-shield]: https://img.shields.io/github/license/Vedantgupta2303/EdMission.svg?style=for-the-badge
-[license-url]: https://github.com/Vedantgupta2303/EdMission/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/GauravAnand563/EdMission.svg?style=for-the-badge
+[contributors-url]: https://github.com/GauravAnand563/EdMission/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/GauravAnand563/EdMission.svg?style=for-the-badge
+[forks-url]: https://github.com/GauravAnand563/EdMission/network/members
+[stars-shield]: https://img.shields.io/github/stars/GauravAnand563/EdMission.svg?style=for-the-badge
+[stars-url]: https://github.com/GauravAnand563/EdMission/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GauravAnand563/EdMission.svg?style=for-the-badge
+[issues-url]: https://github.com/GauravAnand563/EdMission/issues
+[license-shield]: https://img.shields.io/github/license/GauravAnand563/EdMission.svg?style=for-the-badge
+[license-url]: https://github.com/GauravAnand563/EdMission/blob/master/LICENSE.txt
