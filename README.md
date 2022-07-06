@@ -89,14 +89,7 @@ The drive link to the latest APK can be found [here](https://drive.google.com/fi
 <!-- USAGE EXAMPLES -->
 ## Screenshots
 
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/login-ss.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss1.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss2.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss3.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss4.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/ss5.jpeg"  width="100" height="200">  
-<img src="https://github.com/GauravAnand563/EdMission/blob/master/setup/vc-ss.jpeg"  width="100" height="200">
-
+<img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/login-ss.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/ss1.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/ss2.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/ss3.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/ss4.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/ss5.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/sss1.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/sss2.jpeg"  width="100" height="200">  <img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/sss3.jpeg"  width="100" height="200"><img src="https://github.com/GauravAnand563/EdMission/blob/main/setup/vc-ss.jpeg"  width="100" height="200"> 
 
 <!-- ROADMAP -->
 ## Roadmap
